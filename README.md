@@ -1,7 +1,7 @@
 <div align="center">
   <h1>influencer MD</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=45&pause=1000&color=33ff00&center=true&width=800&height=80&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+Supreme" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=45&pause=1000&color=33ff00&center=true&width=800&height=80&lines=influencer-Official;Multi+Device+Whatsapp+Bot;Made+by+INFLUENCER" alt="Typing SVG" />
   </a>
 </div>
 
