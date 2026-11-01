@@ -5,9 +5,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://i.ibb.co/PzZPCy4m/upload-1777031446938-c2f61fb6-jpg.jpg" alt="JUNE X" height="250">
-</div>
 
 ---
 
