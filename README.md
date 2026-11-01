@@ -21,7 +21,7 @@
 | Action | Link |
 |--------|------|
 | **Fork Repository** | <a href="https://github.com/Vinpink2/NATSUKI-MD/fork"><img src="https://img.shields.io/badge/Fork Repo%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
-| **Download ZIP** | <a href="https://github.com/Vinpink2/June_X_Ultra/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
+| **Download ZIP** | <a href="https://github.com/Vinpink2/NATSUKI-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
